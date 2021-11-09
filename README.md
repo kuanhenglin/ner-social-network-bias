@@ -1,6 +1,6 @@
 # Applying Social Network Extraction With Named Entity Recognition to the Examination of Political Bias Within Online News Articles
 
-This Github repository contains all statistical analyses and results for the study "Applying Social Network Extraction With Named Entity Recognition to the Examination of Political Bias Within Online News Articles" by Kuan Heng Lin and Chih Ming Tsai. The paper was accepted to *Proceedings of the 2020 3rd International Conference on Artificial Intelligence and Pattern Recognition (AIPR 2020)*.
+This Github repository contains all statistical analyses and results for the study "Applying Social Network Extraction With Named Entity Recognition to the Examination of Political Bias Within Online News Articles" by Kuan Heng Lin and Chih Ming Tsai. The paper was accepted to *Proceedings of the 2020 3rd International Conference on Artificial Intelligence and Pattern Recognition*.
 
 The paper can be found on the ACM [website](https://dl.acm.org/doi/10.1145/3430199.3430219).
 
